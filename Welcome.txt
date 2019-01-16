@@ -1,0 +1,2 @@
+print("WElcome comrad")
+print("Ei ty chmo")
